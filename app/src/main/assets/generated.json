@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "5c447db2584e3f19b6ff0b06",
+    "title": "Maison",
+    "about": "In consequat et est nisi ea. Nisi cupidatat quis laborum adipisicing nisi nostrud esse non. Est cillum sint voluptate nostrud aute officia ipsum ipsum Lorem in nisi. Voluptate ad in in nisi esse magna sit nisi exercitation. Eu dolor dolor fugiat esse cillum labore eiusmod laboris elit reprehenderit duis aliquip. Sint nulla consectetur est nisi esse aliquip nisi fugiat occaecat ex mollit qui tempor.\r\n",
+    "nbPiece": 7,
+    "caracteristique": "blue",
+    "cost": 713750,
+    "city": "{ Websterville, East Timor }",
+    "vendeur": 0,
+    "image": "{{integer(100, 999)},{integer(100, 999)},{integer(100, 999)},{integer(100, 999)}} ",
+    "date": "2017-03-04T07:13:17 -01:00",
+    "Seller": [
+      {
+        "id": 0,
+        "name": "Margret Clay",
+        "email": "margretclay@frolix.com",
+        "phone": "+33 (988) 453-2603"
+      }
+    ]
+  },
+  {
+    "_id": "5c447db228fa5edd76e5ad02",
+    "title": "Rien",
+    "about": "Occaecat minim ipsum minim veniam eiusmod laborum eiusmod deserunt irure in adipisicing exercitation amet. Ex ad proident pariatur nisi proident duis mollit deserunt magna. Ipsum nisi irure et pariatur consequat est magna nostrud nulla ut quis consectetur.\r\n",
+    "nbPiece": 7,
+    "caracteristique": "green",
+    "cost": 399074,
+    "city": "{ Monument, Slovenia }",
+    "vendeur": 1,
+    "image": "{{integer(100, 999)},{integer(100, 999)},{integer(100, 999)},{integer(100, 999)}} ",
+    "date": "2016-11-02T09:28:38 -01:00",
+    "Seller": [
+      {
+        "id": 1,
+        "name": "Duran Chang",
+        "email": "duranchang@frolix.com",
+        "phone": "+33 (916) 484-2549"
+      }
+    ]
+  },
+  {
+    "_id": "5c447db2ed5b1e8ee0fdc749",
+    "title": "Maison",
+    "about": "Nisi est anim mollit in eu deserunt officia nulla cupidatat enim sunt mollit nostrud elit. Enim commodo veniam dolor exercitation reprehenderit commodo proident eiusmod ullamco. Irure fugiat incididunt pariatur ex et id velit in pariatur cillum nostrud. In irure anim duis mollit do aliquip duis consectetur ea. Ipsum ipsum in dolore fugiat adipisicing velit cupidatat deserunt ex id. Sint laborum irure irure labore dolore incididunt et enim velit officia.\r\n",
+    "nbPiece": 3,
+    "caracteristique": "blue",
+    "cost": 69331,
+    "city": "{ Sunnyside, Albania }",
+    "vendeur": 3,
+    "image": "{{integer(100, 999)},{integer(100, 999)},{integer(100, 999)},{integer(100, 999)}} ",
+    "date": "2018-01-21T08:53:15 -01:00",
+    "Seller": [
+      {
+        "id": 3,
+        "name": "Chandra Coffey",
+        "email": "chandracoffey@frolix.com",
+        "phone": "+33 (858) 412-2138"
+      }
+    ]
+  },
+  {
+    "_id": "5c447db2a1a973631a8f4d01",
+    "title": "Maison",
+    "about": "Cillum eu qui reprehenderit amet in deserunt ea occaecat. Lorem Lorem nulla sint culpa consectetur occaecat. Enim magna nulla non ad velit cupidatat pariatur do ipsum dolore officia. Eiusmod non esse magna sunt. Nisi ea consectetur consequat voluptate aute occaecat in sunt fugiat occaecat duis exercitation. Qui consectetur officia exercitation id deserunt eu. Est nisi aliquip minim non.\r\n",
+    "nbPiece": 2,
+    "caracteristique": "brown",
+    "cost": 521513,
+    "city": "{ Vincent, Cote D'Ivoire (Ivory Coast) }",
+    "vendeur": 4,
+    "image": "{{integer(100, 999)},{integer(100, 999)},{integer(100, 999)},{integer(100, 999)}} ",
+    "date": "2014-10-18T06:14:10 -02:00",
+    "Seller": [
+      {
+        "id": 4,
+        "name": "Alston Bennett",
+        "email": "alstonbennett@frolix.com",
+        "phone": "+33 (804) 512-3084"
+      }
+    ]
+  },
+  {
+    "_id": "5c447db2ad55fa95edd54104",
+    "title": "Maison",
+    "about": "Nostrud minim veniam reprehenderit et eu. Veniam est exercitation pariatur labore sit in Lorem dolor est aliquip voluptate et pariatur. Reprehenderit elit ullamco ad adipisicing amet ipsum amet eiusmod dolor est esse anim. Sint ex Lorem nisi aliquip exercitation reprehenderit ad pariatur do dolore exercitation aliquip voluptate enim. Exercitation duis ad et cillum est aliquip et dolore cillum dolor nostrud. Pariatur occaecat sit nostrud laborum labore est culpa. Reprehenderit cupidatat dolor aliqua irure aute.\r\n",
+    "nbPiece": 1,
+    "caracteristique": "brown",
+    "cost": 100357,
+    "city": "{ Rutherford, Belarus }",
+    "vendeur": 5,
+    "image": "{{integer(100, 999)},{integer(100, 999)},{integer(100, 999)},{integer(100, 999)}} ",
+    "date": "2015-06-14T09:15:43 -02:00",
+    "Seller": [
+      {
+        "id": 5,
+        "name": "Cathy Pruitt",
+        "email": "cathypruitt@frolix.com",
+        "phone": "+33 (807) 561-2341"
+      }
+    ]
+  }
+]
